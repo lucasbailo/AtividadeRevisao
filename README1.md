@@ -1,14 +1,17 @@
 ## Welcome! 👋
 
-# Auto Complete with API
+# Android Studio Project
 
 This is a code from my class teaching Android Studio for highschool studentes.
 
 ### Screen Shots
-- ScreenShot
+- ScreenShot 1
   ![](./images/Imagem%20Aplicativo!.png)
+- ScreenShot 2
   ![](./images/Classe%20Botão.png)
+- ScreenShot 3
   ![](./images/id%20Texto.png)
+- ScreenShot 4
   ![](./images/Código.png)
 
 ## Some code that I'm proud of
